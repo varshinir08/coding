@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/varshinir08/coding/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/varshinir08/coding/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/varshinir08/coding/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/varshinir08/coding/tree/master/1135-customers-who-bought-all-products) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/varshinir08/coding/tree/master/1245-user-activity-for-the-past-30-days-i) |

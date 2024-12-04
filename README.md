@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/varshinir08/coding/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/varshinir08/coding/tree/master/1135-customers-who-bought-all-products) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/varshinir08/coding/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/varshinir08/coding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1877-find-followers-count](https://github.com/varshinir08/coding/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/varshinir08/coding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/varshinir08/coding/tree/master/1908-recyclable-and-low-fat-products) |

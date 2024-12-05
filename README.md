@@ -17,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/varshinir08/coding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/varshinir08/coding/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/varshinir08/coding/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/varshinir08/coding/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->

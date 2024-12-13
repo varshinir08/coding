@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-last-person-to-fit-in-the-bus](https://github.com/varshinir08/coding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/varshinir08/coding/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/varshinir08/coding/tree/master/1480-movie-rating) |
+| [1811-fix-names-in-a-table](https://github.com/varshinir08/coding/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/varshinir08/coding/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/varshinir08/coding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/varshinir08/coding/tree/master/1908-recyclable-and-low-fat-products) |

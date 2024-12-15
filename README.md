@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-last-person-to-fit-in-the-bus](https://github.com/varshinir08/coding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/varshinir08/coding/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/varshinir08/coding/tree/master/1480-movie-rating) |
+| [1625-group-sold-products-by-the-date](https://github.com/varshinir08/coding/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/varshinir08/coding/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/varshinir08/coding/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/varshinir08/coding/tree/master/1877-find-followers-count) |

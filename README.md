@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/varshinir08/coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshinir08/coding/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/varshinir08/coding/tree/master/0792-binary-search) |
 | [1063-best-sightseeing-pair](https://github.com/varshinir08/coding/tree/master/1063-best-sightseeing-pair) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/varshinir08/coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/varshinir08/coding/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |

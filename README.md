@@ -51,10 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/varshinir08/coding/tree/master/0792-binary-search) |
 | [1063-best-sightseeing-pair](https://github.com/varshinir08/coding/tree/master/1063-best-sightseeing-pair) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2358-number-of-ways-to-split-array](https://github.com/varshinir08/coding/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
+| [2358-number-of-ways-to-split-array](https://github.com/varshinir08/coding/tree/master/2358-number-of-ways-to-split-array) |
 ## Binary Search
 |  |
 | ------- |

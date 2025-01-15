@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/varshinir08/coding/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/varshinir08/coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -152,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/varshinir08/coding/tree/master/3455-minimum-length-of-string-after-operations) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/varshinir08/coding/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->

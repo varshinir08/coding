@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/varshinir08/coding/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varshinir08/coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/varshinir08/coding/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/varshinir08/coding/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinir08/coding/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/varshinir08/coding/tree/master/2465-shifting-letters-ii) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varshinir08/coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/varshinir08/coding/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/varshinir08/coding/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/varshinir08/coding/tree/master/2465-shifting-letters-ii) |
 ## Binary Search
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2145-grid-game](https://github.com/varshinir08/coding/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |
 ## Tree
 |  |

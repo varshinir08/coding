@@ -1,16 +1,16 @@
 class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
-        int r=0;
-        int q=0;
-        int ans=numBottles;
+        int filledBottles=0;
+        int remainedBottles=0;
+        int max_waterBottledrunk=numBottles;
         while(numBottles/numExchange!=0)
         {
-            q=numBottles/numExchange;
-            r=numBottles%numExchange;
-            numBottles=q+r;
-            ans+=q;
+            filledBottles=numBottles/numExchange;
+            remainedBottles=numBottles%numExchange;
+            numBottles=filledBottles+remainedBottles;
+            max_waterBottledrunk+=filledBottles;
 
         }
-        return ans;
+        return max_waterBottledrunk;
     }
 }

@@ -208,10 +208,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |
 | [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

@@ -209,4 +209,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |
+| [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/varshinir08/coding/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshinir08/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshinir08/coding/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varshinir08/coding/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -152,12 +154,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshinir08/coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/varshinir08/coding/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -168,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/varshinir08/coding/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/varshinir08/coding/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -227,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |
 | [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |

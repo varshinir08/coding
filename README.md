@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/varshinir08/coding/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/varshinir08/coding/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
+| [1395-minimum-time-visiting-all-points](https://github.com/varshinir08/coding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/varshinir08/coding/tree/master/1524-string-matching-in-an-array) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |
+| [1395-minimum-time-visiting-all-points](https://github.com/varshinir08/coding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
@@ -255,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/varshinir08/coding/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->

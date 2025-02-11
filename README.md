@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/varshinir08/coding/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/varshinir08/coding/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/varshinir08/coding/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinir08/coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshinir08/coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshinir08/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0952-word-subsets](https://github.com/varshinir08/coding/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/varshinir08/coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy

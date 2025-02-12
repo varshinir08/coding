@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshinir08/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshinir08/coding/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/varshinir08/coding/tree/master/1876-map-of-highest-peak) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshinir08/coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/varshinir08/coding/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/varshinir08/coding/tree/master/1558-course-schedule-iv) |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshinir08/coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/varshinir08/coding/tree/master/0820-find-eventual-safe-states) |
@@ -241,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varshinir08/coding/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshinir08/coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math

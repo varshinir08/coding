@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/varshinir08/coding/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshinir08/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshinir08/coding/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/varshinir08/coding/tree/master/1876-map-of-highest-peak) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
 ## Number Theory

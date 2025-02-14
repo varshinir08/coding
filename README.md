@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/varshinir08/coding/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshinir08/coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/varshinir08/coding/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/varshinir08/coding/tree/master/1876-map-of-highest-peak) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshinir08/coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/varshinir08/coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varshinir08/coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |
 | [1395-minimum-time-visiting-all-points](https://github.com/varshinir08/coding/tree/master/1395-minimum-time-visiting-all-points) |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshinir08/coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/varshinir08/coding/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
@@ -273,4 +276,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/varshinir08/coding/tree/master/1395-minimum-time-visiting-all-points) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshinir08/coding/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshinir08/coding/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

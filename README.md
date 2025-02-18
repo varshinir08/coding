@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varshinir08/coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/varshinir08/coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/varshinir08/coding/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/varshinir08/coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/varshinir08/coding/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/varshinir08/coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/varshinir08/coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/varshinir08/coding/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/varshinir08/coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/varshinir08/coding/tree/master/2509-minimize-xor) |
 ## Brainteaser
 |  |
@@ -284,4 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshinir08/coding/tree/master/1477-product-of-the-last-k-numbers) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/varshinir08/coding/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->

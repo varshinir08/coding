@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshinir08/coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/varshinir08/coding/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/varshinir08/coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1791-richest-customer-wealth](https://github.com/varshinir08/coding/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/varshinir08/coding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/varshinir08/coding/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varshinir08/coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshinir08/coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1791-richest-customer-wealth](https://github.com/varshinir08/coding/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/varshinir08/coding/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/varshinir08/coding/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |

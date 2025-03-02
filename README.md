@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/varshinir08/coding/tree/master/0151-reverse-words-in-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varshinir08/coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/varshinir08/coding/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/varshinir08/coding/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varshinir08/coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varshinir08/coding/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/varshinir08/coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshinir08/coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshinir08/coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varshinir08/coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/varshinir08/coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/varshinir08/coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation

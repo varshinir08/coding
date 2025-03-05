@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varshinir08/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
+| [2649-count-total-number-of-colored-cells](https://github.com/varshinir08/coding/tree/master/2649-count-total-number-of-colored-cells) |
 ## Simulation
 |  |
 | ------- |

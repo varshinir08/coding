@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varshinir08/coding/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/varshinir08/coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshinir08/coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/varshinir08/coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/varshinir08/coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Prefix Sum
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/varshinir08/coding/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varshinir08/coding/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/varshinir08/coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varshinir08/coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/varshinir08/coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/varshinir08/coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varshinir08/coding/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |

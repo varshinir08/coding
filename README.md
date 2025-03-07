@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varshinir08/coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshinir08/coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/varshinir08/coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/varshinir08/coding/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/varshinir08/coding/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/varshinir08/coding/tree/master/2610-closest-prime-numbers-in-range) |
 ## Geometry
 |  |
 | ------- |

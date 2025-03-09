@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/varshinir08/coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/varshinir08/coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-alternating-groups-ii](https://github.com/varshinir08/coding/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varshinir08/coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/varshinir08/coding/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->

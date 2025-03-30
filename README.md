@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/varshinir08/coding/tree/master/0151-reverse-words-in-a-string) |
+| [0768-partition-labels](https://github.com/varshinir08/coding/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varshinir08/coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/varshinir08/coding/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/varshinir08/coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/varshinir08/coding/tree/master/0151-reverse-words-in-a-string) |
+| [0768-partition-labels](https://github.com/varshinir08/coding/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/varshinir08/coding/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/varshinir08/coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/varshinir08/coding/tree/master/1170-shortest-common-supersequence) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshinir08/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0768-partition-labels](https://github.com/varshinir08/coding/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varshinir08/coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/varshinir08/coding/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/varshinir08/coding/tree/master/1364-tuple-with-same-product) |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/varshinir08/coding/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/varshinir08/coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/varshinir08/coding/tree/master/2509-minimize-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/varshinir08/coding/tree/master/3001-apply-operations-to-maximize-score) |

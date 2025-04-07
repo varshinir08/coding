@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/varshinir08/coding/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/varshinir08/coding/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshinir08/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/varshinir08/coding/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/varshinir08/coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/varshinir08/coding/tree/master/1063-best-sightseeing-pair) |

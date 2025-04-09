@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/varshinir08/coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/varshinir08/coding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/varshinir08/coding/tree/master/3483-alternating-groups-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/varshinir08/coding/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/varshinir08/coding/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
 |  |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/varshinir08/coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/varshinir08/coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/varshinir08/coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/varshinir08/coding/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |

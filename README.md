@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/varshinir08/coding/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/varshinir08/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/varshinir08/coding/tree/master/0441-arranging-coins) |

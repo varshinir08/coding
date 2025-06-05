@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/varshinir08/coding/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshinir08/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshinir08/coding/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/varshinir08/coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/varshinir08/coding/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varshinir08/coding/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/varshinir08/coding/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/varshinir08/coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varshinir08/coding/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varshinir08/coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sliding Window
 |  |

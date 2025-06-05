@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/varshinir08/coding/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/varshinir08/coding/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/varshinir08/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/varshinir08/coding/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varshinir08/coding/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/varshinir08/coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/varshinir08/coding/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/varshinir08/coding/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varshinir08/coding/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varshinir08/coding/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/varshinir08/coding/tree/master/0436-find-right-interval) |

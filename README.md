@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/varshinir08/coding/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/varshinir08/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/varshinir08/coding/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/varshinir08/coding/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshinir08/coding/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/varshinir08/coding/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshinir08/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varshinir08/coding/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |

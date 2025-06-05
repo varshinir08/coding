@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/varshinir08/coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/varshinir08/coding/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/varshinir08/coding/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinir08/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/varshinir08/coding/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/varshinir08/coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varshinir08/coding/tree/master/0238-product-of-array-except-self) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/varshinir08/coding/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varshinir08/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/varshinir08/coding/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/varshinir08/coding/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/varshinir08/coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |

@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/varshinir08/coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshinir08/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/varshinir08/coding/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/varshinir08/coding/tree/master/0075-sort-colors) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/varshinir08/coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/varshinir08/coding/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/varshinir08/coding/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/varshinir08/coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
